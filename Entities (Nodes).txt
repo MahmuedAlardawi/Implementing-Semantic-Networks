@@ -1,0 +1,55 @@
+Entities (Nodes):
+
+Academic Papers
+Accreditation Bodies
+Administration
+Alumni
+Assignments
+Championships
+Classrooms
+Clubs
+Committees
+Community Service
+Conferences
+Conduct
+Courses
+Cultural Activities
+Databases
+Departments
+Equipment
+Events
+Exams
+Facilities
+Faculty
+Finances
+Grants
+Industry
+Labs
+Learning Opportunities
+Lectures
+Leagues
+Library
+Local Development
+Majors
+Modules
+Networking Events
+Online Formats
+Organizations
+Partnerships
+Patents
+Policies
+Publications
+Recreational Areas
+Research
+Research Teams
+Scholarships
+Seminars
+Services
+Sports Teams
+Staff
+Students
+Study Groups
+Study Spaces
+Textbooks
+University
+Workshops

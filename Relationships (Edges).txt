@@ -1,0 +1,124 @@
+Relationships (Edges):
+
+University HAS Departments
+University HAS Faculty
+University HAS Students
+University HAS Administration
+University HAS Library
+University HAS Sports Teams
+University HAS Alumni
+University HAS Facilities
+University HAS Policies
+
+Faculty TEACHES Courses
+Faculty CONDUCTS Research
+Faculty ADVISES Students
+Faculty PARTICIPATES IN Committees
+Faculty COLLABORATES WITH Other Faculty
+Faculty WRITES Grants
+Faculty REVIEWS Academic Papers
+Faculty BELONGS TO Departments
+
+Students ENROLL IN Courses
+Students USE Library
+Students JOIN Sports Teams
+Students BECOME Alumni
+Students PARTICIPATE IN Research
+Students PARTICIPATE IN Clubs
+Students FORM Study Groups
+Students APPLY FOR Scholarships
+Students ATTEND Lectures
+Students SUBMIT Assignments
+Students TAKE Exams
+Students VOLUNTEER IN Community Service
+
+Departments OFFER Courses
+Departments MANAGE Faculty
+Departments CONDUCT Research
+Departments COORDINATE Majors
+Departments DEVELOP Curriculum
+Departments HOST Seminars
+Departments MAINTAIN Labs
+Departments COLLABORATE WITH Industry
+
+Courses TAUGHT BY Faculty
+Courses TAKEN BY Students
+Courses OFFERED BY Departments
+Courses REQUIRE Textbooks
+Courses INCLUDE Lectures
+Courses REQUIRE Exams
+Courses PROVIDE Credits
+Courses HAVE Prerequisites
+Courses EVALUATE Students
+Courses ARE STRUCTURED IN Modules
+Courses ARE DELIVERED IN Various Formats
+
+Research CONDUCTED BY Faculty
+Research USES Equipment
+Research RECEIVES Funding
+Research PRODUCES Publications
+Research ADDRESSES Problems
+Research DEVELOPS Technologies
+Research TEAMS CONSIST OF Faculty and Students
+Research RESULTS IN Patents
+Research INFLUENCES Industry
+
+Administration MANAGES University
+Administration SUPPORTS Students
+Administration EMPLOYS Faculty
+Administration OVERSEES Finances
+Administration ENFORCES Policies
+Administration MAINTAINS Facilities
+Administration PROVIDES Services
+Administration COORDINATES Events
+
+Library PROVIDES Resources
+Library SUPPORTS Research
+Library USED BY Students
+Library ARCHIVES Publications
+Library ORGANIZES Workshops
+Library MAINTAINS Databases
+Library OFFERS Study Spaces
+
+Sports Teams COMPRISE OF Students
+Sports Teams REPRESENT University
+Sports Teams PRACTICE Regularly
+Sports Teams COMPETE In Leagues
+Sports Teams WIN Championships
+
+Alumni GRADUATED FROM University
+Alumni SUPPORT University
+Alumni NETWORK WITH Students
+Alumni DONATE To University
+Alumni MENTOR Students
+Alumni ATTEND Reunions
+Alumni ESTABLISH Scholarships
+Alumni PARTICIPATE IN Networking Events
+
+Committees INCLUDE Faculty and Administration
+Committees MAKE Decisions
+Committees REVIEW Policies
+
+Majors REQUIRE A Set Of Courses
+Majors PREPARE Students For Careers
+Majors ARE RECOGNIZED BY Accreditation Bodies
+
+Scholarships ARE AWARDED TO Deserving Students
+Scholarships ARE FUNDED BY Alumni and Organizations
+Scholarships SUPPORT Students Financially
+
+Community Service PROVIDES Learning Opportunities
+Community Service BUILDS Partnerships
+Community Service CONTRIBUTES TO Local Development
+
+Facilities INCLUDE Classrooms, Labs, and Recreational Areas
+Facilities ARE USED BY Students and Faculty
+Facilities ARE MAINTAINED BY Staff
+
+Events INCLUDE Conferences, Workshops, and Cultural Activities
+Events ARE ATTENDED BY Students, Faculty, and Alumni
+Events PROMOTE University Culture
+
+Policies GOVERN Conduct
+Policies ARE DEVELOPED BY Administration
+Policies ARE COMPLIED WITH By Students and Faculty
